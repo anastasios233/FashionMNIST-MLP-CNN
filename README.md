@@ -48,4 +48,9 @@ After 5 trials and 2 executions per trail we have the following best architectur
 Note: The results taken using the keras set_seed in order to get and compare reproducible results.
 
 ### MLP with Dropouts layers:
+![alt text](https://github.com/anmatrapazis/FashionMNIST-MLP-CNN/blob/main/im2.png)
+
+
+![alt text](https://github.com/anmatrapazis/FashionMNIST-MLP-CNN/blob/main/im3.png)
+![alt text](https://github.com/anmatrapazis/FashionMNIST-MLP-CNN/blob/main/im4.png)
 
