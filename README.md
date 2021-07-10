@@ -26,3 +26,4 @@ We are going to import data as tensorflow fashion-mnist shows. Then we use the t
 | x_val | (12000,28,28) |
 | x_test | (10000,28,28) |
 
+![alt text](https://github.com/anmatrapazis/FashionMNIST-MLP-CNN/blob/main/im1.png)
